@@ -4,6 +4,8 @@
 
 [![License](https://img.shields.io/badge/license-Apache--2.0-green.svg)](LICENSE) [![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/sr00t3d/chgurl/releases) [![Shell](https://img.shields.io/badge/bash-4.0+-blue.svg)](https://www.gnu.org/software/bash/)
 
+![Portada chgurl](chgurl-cover.webp)
+
 `chgurl.sh` es una CLI en Bash para actualizar URLs y dominios de forma segura en **WordPress**, **Magento 1 y 2**, **PrestaShop 1.6 / 1.7 / 8**, **WHMCS**, **Joomla** y **Drupal** — con detección automática de CMS (`--auto`), copias de seguridad SQL/config con `chmod 600`, vista previa `--dry-run` y salidas estructuradas en `table`, `json` y `csv`.
 
 > **Créditos Históricos:** Iniciado originalmente en 2012 (etapa HostGator) por **Percio Andrade (Percio Castelo)** con contribuciones de **Jose Terra** y **Leonardo Bolsoni**, ahora completado, endurecido y modernizado para entornos de producción.
